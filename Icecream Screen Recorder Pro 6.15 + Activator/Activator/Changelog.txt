@@ -1,0 +1,21 @@
+================================================================================
+| + New Feature                                                                |
+| - Removed Feature                                                            |
+| * Fixed/Improved Feature                                                     |
++------------------------------------------------------------------------------+
+|                                                                              |
+| v1.3 (2018-12-14)                                                            |
+| * License generator updated for PDF Candy Desktop 2.77                       |
+|                                                                              |
+| v1.2 (2018-08-01)                                                            |
+| + Added support for Image Resizer.                                           |
+|                                                                              |
+| v1.1 (2018-03-09)                                                            |
+| + Added support for PDF Candy Desktop.                                       |
+| + Activator update check option.                                             |
+| * Internal improvements and minor GUI modifications.                         |
+|                                                                              |
+| v1.0 (2017-08-01)                                                            |
+| + First release.                                                             |
+|                                                                              |
+================================================================================
